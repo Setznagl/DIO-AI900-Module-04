@@ -1,28 +1,33 @@
 <h1>DIO-AI900-Module-04</h1>
 <p>Fourth module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Document Data Mining)</p>
 
-<h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html<br>
-Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html</h2>
-<img src="/Assets" width= 100%>
+<h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html<br>
 
-<h2>Creation of the "LABAI900" resource group</h2>
-<img src="/Assets" width= 100%>
+<h2>Creation of the "LABAI900" resources "Search" , "Cognitive" & Storage</h2>
+<img src="/Assets/az-criando recurso AI source.png" width= 100%>
+<img src="/Assets/az-criando recurso AI source2.png" width= 100%>
+<img src="/Assets/az-criando recurso AI source3.png" width= 100%>
+<img src="/Assets/az-criando recurso cognitive 1.png" width= 100%>
+<img src="/Assets/az-criando recurso AI source2.png" width= 100%>
+<img src="/Assets/az-storage-acc 1.png" width= 100%>
+<img src="/Assets/az-storage-acc 2.png" width= 100%>
+<img src="/Assets/az-storage-acc created 3.png" width= 100%>
+<img src="/Assets/az-storage-acc options 1.png" width= 100%>
+<img src="/Assets/az-storage-acc options 2.png" width= 100%>
+<img src="/Assets/az-storage-acc container list.png" width= 100%>
 
-<h2>Creation of the Machine Learning resource "DIO AI 900 Modulo 01"</h2>
-<img src="/Assets" width= 100%>
 
-<h2>Access to the Machine Learning subportal;</h2>
-<img src="/Assets" width= 100%>
+<h2>Integration of both resources with Azure Storage "container" blob</h2>
+<p>Access Search Resource and then access the "import data" menu </p>
+<p>Proceeding as instructed</p>
+<img src="/Assets/az- last steps 1.png" width= 100%>
+<img src="/Assets/az- last steps 2.png" width= 100%>
+<img src="/Assets/az- last steps 3.png" width= 100%>
+<img src="/Assets/az- last steps 4.png" width= 100%>
+<img src="/Assets/az- last steps 5.png" width= 100%>
+<img src="/Assets/az- last steps 6.png" width= 100%>
+<img src="/Assets/az- last steps 7.png" width= 100%>
+<img src="/Assets/az- last steps 8.png" width= 100%>
+<img src="/Assets/az- last steps 9.png" width= 100%>
+<img src="/Assets/az- last steps 10.png" width= 100%>
 
-<h2>Creation of the JOB mslearn-bike-automl;
-Waiting time for test replication (Up to 15 minutes)</h2>
-<img src="/Assets" width= 100%>
-
-<h2>Analysis of metrics;</h2>
-
-<h2>Creation of a model based on the result of the algorithm;
-Waiting time for replication (Up to 10 minutes)</h2>
-<img src="/Assets" width= 100%>
-
-<h2>Test based on the example provided by the mylearning portal</h2>
-<img src="/Assets" width= 100%>
